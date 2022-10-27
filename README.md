@@ -30,6 +30,7 @@ Yanuy es una aplicación donde muchos usuarios podrán buscar ayuda para comer d
 
 ### Segmento de clientes
 -Personas de entre 18 a 39 años pertenecientes a comunidades apasionadas por la buena salud física como: comunidad fitness, nutricionistas, entre otros.
+
 -Personas jóvenes independientes de entre 18-26 años con poca experiencia en la cocina y preparación de alimentos en busca de información o tutoriales especializados en comida saludable. 
 
 ---
