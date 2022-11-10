@@ -17,7 +17,7 @@ Yanuy es una aplicación donde muchos usuarios podrán buscar ayuda para comer d
 
 ### Josafat Larios Mellado
 
-### Jorge Tarapa Peña
+### Jorge Omar Tarapa Peña
 
 ### Christian Roque Ponce
 
