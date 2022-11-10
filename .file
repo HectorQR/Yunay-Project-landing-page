@@ -98,15 +98,4 @@
 <!--    -->
 
 <!--    -->
-<section class="partner">
-    <div class="container partner__container">
-        <div class="partner__center">
-            <img class="UPC" src="/public/assets/images/UPC.png" alt="UPC" >
-        </div>
-    </div>
-    <h1>NOS ENCARGAMOS DE OPTIMIZAR EL TIEMPO DE RECLUTAMIENTO DE PERSONAL DE TRANSPORTE</h1>
-</section>
-<div id="footer-placeholder"></div>
-<script src="assets/scripts/main.js" type="text/javascript"></script>
-</body>
-</html>
+
