@@ -1,4 +1,4 @@
-# Yunay-Project-landing-page
+# Yanuy-Project-landing-page
 ## SinCarreras Landing Page 
 
 **[Autors](#autors) | [Segmentos Objetivo](#segmentos-objetivo) | [Características principales de Yanuy](#características-principales-de-Yanuy)**
