@@ -2,7 +2,7 @@
     width: 100%;
     max-width: 1920px;
     
-    background-image:url(imagenes/hojas.png);
+    background-image:url(/imagenes/hojas.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
