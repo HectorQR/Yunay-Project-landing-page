@@ -9,7 +9,7 @@ Sin carreras está conformada por jóvenes estudiantes de la Universidad Peruana
 
 ## About Yanuy
 
-dfsdgdsgdsgdsgdsg
+Yanuy es una aplicación donde muchos usuarios podrán buscar ayuda para comer de una manera sana. Esta app no solo es para comer sano, también esta dirigido a la población de bajos recursos, para que ellos puedan comer mejor a un bajo costo.
 
 ---
 
